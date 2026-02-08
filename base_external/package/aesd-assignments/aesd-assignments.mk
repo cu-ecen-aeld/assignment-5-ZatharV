@@ -1,5 +1,5 @@
 AESD_ASSIGNMENTS_VERSION = e79f492e79b5d4fd1ff24a9d80eeba8df402ec7c
-AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-omkarsangrulkar.git
+AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-ZatharV.git
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
